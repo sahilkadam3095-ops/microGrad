@@ -1,1 +1,1 @@
-# Transformer
+A minimal autograd engine built from scratch in Python, inspired by Andrej Karpathy's Micrograd. Implements automatic differentiation using computational graphs and backpropagation, along with a simple neural network library for learning the fundamentals of deep learning.
